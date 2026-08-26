@@ -508,18 +508,6 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(10).jpg"
-        width="100%"
-        alt="Guided Project - Student Grades (10)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (10)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
-    <td align="center" width="33%">
-      <img
         src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(11).jpg"
         width="100%"
         alt="Guided Project - Student Grades (11)"
