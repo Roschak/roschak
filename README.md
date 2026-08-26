@@ -65,7 +65,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/AI%20Mini%20Camp%20-%20Ragah%20Dirotama%20Wijaya.jpg"
+        src="https://drive.google.com/uc?export=view&id=1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m"
         width="100%"
         alt="AI Mini Camp"
       />
@@ -76,7 +76,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_AI Praktis untuk Produktivitas-2029.pdf">
+      <a href="https://drive.google.com/file/d/1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R/view?usp=drive_link">
         <img src="https://img.shields.io/badge/AI+Praktis+untuk+Produktivitas-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="AI Praktis untuk Produktivitas" />
       </a>
       <br><br>
@@ -86,7 +86,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_belajar-AI.pdf">
+      <a href="https://drive.google.com/file/d/1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Belajar+AI-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar AI" />
       </a>
       <br><br>
@@ -98,7 +98,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar Back-End Pemula dengan JavaScript-2026-2029.pdf">
+      <a href="https://drive.google.com/file/d/1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Back-End+Pemula+JavaScript-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Back-End Pemula dengan JavaScript" />
       </a>
       <br><br>
@@ -108,7 +108,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar-Dasar -Pemrograman-Web_2026-29.pdf">
+      <a href="https://drive.google.com/file/d/1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dasar+Pemrograman+Web-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Pemrograman Web" />
       </a>
       <br><br>
@@ -118,7 +118,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar-Dasar-Cloud-dan-GenAI-di-AWS.pdf">
+      <a href="https://drive.google.com/file/d/19xyBe-A5wys8alLj4gkzybYTydpp32xJ/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dasar+Cloud+dan+GenAI+AWS-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Cloud dan GenAI di AWS" />
       </a>
       <br><br>
@@ -130,7 +130,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar-Dasar-Pemrograman-JavaScript.pdf">
+      <a href="https://drive.google.com/file/d/19gefzN65_hcJgmi1Ri-wq-boGwrBYl92/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dasar+Pemrograman+JavaScript-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Pemrograman JavaScript" />
       </a>
       <br><br>
@@ -140,7 +140,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar-Machine-Learning-untuk-Pemula.pdf">
+      <a href="https://drive.google.com/file/d/1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Machine+Learning+untuk+Pemula-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Machine Learning untuk Pemula" />
       </a>
       <br><br>
@@ -150,7 +150,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar-Membuat-Aplikasi-Web-dengan-React-.pdf">
+      <a href="https://drive.google.com/file/d/1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Membuat+Aplikasi+Web+React-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Membuat Aplikasi Web dengan React" />
       </a>
       <br><br>
@@ -162,7 +162,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Belajar-Membuat-Front-End-Web-untuk-Pemula_2026-2029.pdf">
+      <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Front-End+Web+untuk+Pemula-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Membuat Front-End Web untuk Pemula" />
       </a>
       <br><br>
@@ -172,7 +172,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_memulai pemrigraman dengan python.pdf">
+      <a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Memulai+Pemrograman+Python-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Memulai Pemrograman dengan Python" />
       </a>
       <br><br>
@@ -182,7 +182,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_memulai-dasar.pdf">
+      <a href="https://drive.google.com/file/d/1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Memulai+Dasar-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Memulai Dasar" />
       </a>
       <br><br>
@@ -194,7 +194,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_Pengenalan ke Logika Pemrograman (Programming Logic 101).pdf">
+      <a href="https://drive.google.com/file/d/1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Pengenalan+Logika+Pemrograman-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Pengenalan ke Logika Pemrograman" />
       </a>
       <br><br>
@@ -204,7 +204,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_4.pdf">
+      <a href="https://drive.google.com/file/d/1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dicoding+Course+4-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding Course 4" />
       </a>
       <br><br>
@@ -214,7 +214,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat_course_5.pdf">
+      <a href="https://drive.google.com/file/d/11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dicoding+Course+5-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding Course 5" />
       </a>
       <br><br>
@@ -226,7 +226,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/Dicoding-ILT-english (1).pdf">
+      <a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dicoding+ILT+English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding ILT English" />
       </a>
       <br><br>
@@ -237,7 +237,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Dicoding-ILT-english%20.jpg"
+        src="https://drive.google.com/uc?export=view&id=1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA"
         width="100%"
         alt="Dicoding ILT English Certificate"
       />
@@ -257,7 +257,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/Write your first C%23 code.pdf">
+      <a href="https://drive.google.com/file/d/1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Write+your+first+C%23+code-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Write your first C# code" />
       </a>
       <br><br>
@@ -267,7 +267,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/Store and retrieve data using literal and variable values in C%23.pdf">
+      <a href="https://drive.google.com/file/d/1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Store+and+retrieve+data+in+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Store and retrieve data in C#" />
       </a>
       <br><br>
@@ -277,7 +277,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/Lakukan pemformatan string dasar di C%23.pdf">
+      <a href="https://drive.google.com/file/d/1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Pemformatan+String+dasar+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Lakukan pemformatan string dasar di C#" />
       </a>
       <br><br>
@@ -289,7 +289,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/Perform basic operations on numbers in C%23.pdf">
+      <a href="https://drive.google.com/file/d/1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Basic+operations+numbers+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Perform basic operations on numbers in C#" />
       </a>
       <br><br>
@@ -299,7 +299,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/Guided project - Calculate and print student grades.pdf">
+      <a href="https://drive.google.com/file/d/1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Guided+Project+Student+Grades-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Calculate and print student grades" />
       </a>
       <br><br>
@@ -309,7 +309,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/Guided project - Calculate final GPA.pdf">
+      <a href="https://drive.google.com/file/d/1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Guided+Project+Final+GPA-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Calculate final GPA" />
       </a>
       <br><br>
@@ -321,7 +321,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/Instal dan konfigurasikan Visual Studio Code..pdf">
+      <a href="https://drive.google.com/file/d/1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Instal+Visual+Studio+Code-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Instal dan konfigurasikan Visual Studio Code" />
       </a>
       <br><br>
@@ -344,7 +344,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades.jpg"
+        src="https://drive.google.com/uc?export=view&id=1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO"
         width="100%"
         alt="Guided Project - Student Grades"
       />
@@ -356,7 +356,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(1).jpeg"
+        src="https://drive.google.com/uc?export=view&id=1IBhzZmPkvLUIoieqPE4N9c737-mIv-99"
         width="100%"
         alt="Guided Project - Student Grades (1)"
       />
@@ -368,7 +368,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(2).jpg"
+        src="https://drive.google.com/uc?export=view&id=1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk"
         width="100%"
         alt="Guided Project - Student Grades (2)"
       />
@@ -382,7 +382,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(3).jpg"
+        src="https://drive.google.com/uc?export=view&id=1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K"
         width="100%"
         alt="Guided Project - Student Grades (3)"
       />
@@ -394,7 +394,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(4).jpg"
+        src="https://drive.google.com/uc?export=view&id=1y5xzJHR5f0XocNGFcxF19Sdessn31U0P"
         width="100%"
         alt="Guided Project - Student Grades (4)"
       />
@@ -406,7 +406,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(5).jpg"
+        src="https://drive.google.com/uc?export=view&id=1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6"
         width="100%"
         alt="Guided Project - Student Grades (5)"
       />
@@ -420,7 +420,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(6).jpg"
+        src="https://drive.google.com/uc?export=view&id=1EOMszsohkMi3ronp_IPlloM7jch26qod"
         width="100%"
         alt="Guided Project - Student Grades (6)"
       />
@@ -432,7 +432,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(7).jpg"
+        src="https://drive.google.com/uc?export=view&id=1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m"
         width="100%"
         alt="Guided Project - Student Grades (7)"
       />
@@ -444,7 +444,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(8).jpg"
+        src="https://drive.google.com/uc?export=view&id=1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R"
         width="100%"
         alt="Guided Project - Student Grades (8)"
       />
@@ -458,7 +458,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(9).jpg"
+        src="https://drive.google.com/uc?export=view&id=1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU"
         width="100%"
         alt="Guided Project - Student Grades (9)"
       />
@@ -470,7 +470,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(10).jpg"
+        src="https://drive.google.com/uc?export=view&id=1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8"
         width="100%"
         alt="Guided Project - Student Grades (10)"
       />
@@ -482,7 +482,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(16).jpg"
+        src="https://drive.google.com/uc?export=view&id=1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C"
         width="100%"
         alt="Guided Project - Student Grades (16)"
       />
@@ -496,7 +496,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(19).jpg"
+        src="https://drive.google.com/uc?export=view&id=19xyBe-A5wys8alLj4gkzybYTydpp32xJ"
         width="100%"
         alt="Guided Project - Student Grades (19)"
       />
@@ -508,7 +508,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(11).jpg"
+        src="https://drive.google.com/uc?export=view&id=19gefzN65_hcJgmi1Ri-wq-boGwrBYl92"
         width="100%"
         alt="Guided Project - Student Grades (11)"
       />
@@ -522,7 +522,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(12).jpg"
+        src="https://drive.google.com/uc?export=view&id=1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP"
         width="100%"
         alt="Guided Project - Student Grades (12)"
       />
@@ -534,7 +534,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(13).jpg"
+        src="https://drive.google.com/uc?export=view&id=1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb"
         width="100%"
         alt="Guided Project - Student Grades (13)"
       />
@@ -554,7 +554,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/idcamp-Introduction-to-Cybersecurity.pdf">
+      <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Introduction+to+Cybersecurity-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Introduction to Information Security" />
       </a>
       <br><br>
@@ -564,7 +564,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat-dasar2-cybersecurity-2026pdf.pdf">
+      <a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Dasar-Dasar+Cybersecurity+2026-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dasar-Dasar Cybersecurity" />
       </a>
       <br><br>
@@ -584,7 +584,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/%5BCoding%20Camp%202026%5D%20Certificate%20-%20CFS022D6Y253.jpg"
+        src="https://drive.google.com/uc?export=view&id=1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l"
         width="100%"
         alt="Coding Camp 2026 Certificate"
       />
@@ -595,7 +595,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025 (1).pdf">
+      <a href="https://drive.google.com/file/d/1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Webinar+27+Agustus+2025-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Webinar 27 Agustus 2025" />
       </a>
       <br><br>
@@ -610,7 +610,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="./certificates/Sertifikat Ragah Dirotama Wijaya financial-liteasi-menyala.pdf">
+      <a href="https://drive.google.com/file/d/1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Financial+Literasi+Menyala-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Financial Literasi Menyala" />
       </a>
       <br><br>
@@ -620,7 +620,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/sertifikat-keuangan.pdf">
+      <a href="https://drive.google.com/file/d/11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Sertifikat+Keuangan-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Sertifikat Keuangan" />
       </a>
       <br><br>
@@ -630,7 +630,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <a href="./certificates/Ragah Dirotama Wijaya (3).pdf">
+      <a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Certificate" />
       </a>
       <br><br>
