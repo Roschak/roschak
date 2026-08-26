@@ -59,48 +59,46 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <i>Certifications, courses, and achievements — all verified certificates</i>
 </p>
 
-### 🎓 Dicoding Indonesia
-
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m"
+          src="./certificates/Write your first C# code_badge.svg"
           width="100%"
-          alt="AI Mini Camp"
+          alt="Write your first C# code"
         />
       </a>
       <br><br>
-      <strong>AI Mini Camp</strong>
+      <strong>Write your first C# code</strong>
       <br>
-      Dicoding Indonesia
+      Microsoft Learn
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R"
+          src="./certificates/Store and retrieve data using literal and variable values in C#_badge.svg"
           width="100%"
-          alt="AI Praktis untuk Produktivitas"
+          alt="Store and retrieve data using literal and variable values in C#"
         />
       </a>
       <br><br>
-      <strong>AI Praktis untuk Produktivitas</strong>
+      <strong>Store and retrieve data using literal and variable values in C#</strong>
       <br>
-      Dicoding Indonesia
+      Microsoft Learn
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU"
+          src="./certificates/sertifikat-keuangan_badge.svg"
           width="100%"
-          alt="Belajar AI"
+          alt="keuangan"
         />
       </a>
       <br><br>
-      <strong>Belajar AI</strong>
+      <strong>keuangan</strong>
       <br>
-      Dicoding Indonesia
+      Financial Literacy
     </td>
   </tr>
 
@@ -108,75 +106,33 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8"
+          src="./certificates/sertifikat_course_memulai pemrigraman dengan python_badge.svg"
           width="100%"
-          alt="Belajar Back-End Pemula dengan JavaScript"
+          alt="memulai pemrigraman dengan python"
         />
       </a>
       <br><br>
-      <strong>Belajar Back-End Pemula dengan JavaScript</strong>
+      <strong>memulai pemrigraman dengan python</strong>
       <br>
       Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C"
+          src="./certificates/sertifikat_course_Belajar-Membuat-Front-End-Web-untuk-Pemula_2026-2029_badge.svg"
           width="100%"
-          alt="Belajar Dasar Pemrograman Web"
+          alt="Belajar Membuat Front End Web untuk Pemula 2026"
         />
       </a>
       <br><br>
-      <strong>Belajar Dasar Pemrograman Web</strong>
+      <strong>Belajar Membuat Front End Web untuk Pemula 2026</strong>
       <br>
       Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/19xyBe-A5wys8alLj4gkzybYTydpp32xJ/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=19xyBe-A5wys8alLj4gkzybYTydpp32xJ"
-          width="100%"
-          alt="Belajar Dasar Cloud dan GenAI di AWS"
-        />
-      </a>
-      <br><br>
-      <strong>Belajar Dasar Cloud dan GenAI di AWS</strong>
-      <br>
-      Dicoding Indonesia
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/19gefzN65_hcJgmi1Ri-wq-boGwrBYl92/view?usp=drive_link">
-        <img
-          src="https://drive.google.com/uc?export=view&id=19gefzN65_hcJgmi1Ri-wq-boGwrBYl92"
-          width="100%"
-          alt="Belajar Dasar Pemrograman JavaScript"
-        />
-      </a>
-      <br><br>
-      <strong>Belajar Dasar Pemrograman JavaScript</strong>
-      <br>
-      Dicoding Indonesia
-    </td>
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP/view?usp=drive_link">
-        <img
-          src="https://drive.google.com/uc?export=view&id=1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP"
-          width="100%"
-          alt="Belajar Machine Learning untuk Pemula"
-        />
-      </a>
-      <br><br>
-      <strong>Belajar Machine Learning untuk Pemula</strong>
-      <br>
-      Dicoding Indonesia
-    </td>
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb/view?usp=drive_link">
-        <img
-          src="https://drive.google.com/uc?export=view&id=1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb"
+          src="./certificates/sertifikat_course_Belajar-Membuat-Aplikasi-Web-dengan-React-_badge.svg"
           width="100%"
           alt="Belajar Membuat Aplikasi Web dengan React"
         />
@@ -190,43 +146,85 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/19gefzN65_hcJgmi1Ri-wq-boGwrBYl92/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r"
+          src="./certificates/sertifikat-igw-game-jam.jpeg"
           width="100%"
-          alt="Belajar Membuat Front-End Web untuk Pemula"
+          alt="igw game jam"
         />
       </a>
       <br><br>
-      <strong>Belajar Membuat Front-End Web untuk Pemula</strong>
+      <strong>igw game jam</strong>
+      <br>
+      IGW Game Jam
+    </td>
+    <td align="center" width="33%">
+      <a href="https://drive.google.com/file/d/1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP/view?usp=drive_link">
+        <img
+          src="./certificates/sertifikat_course_Belajar-Machine-Learning-untuk-Pemula_badge.svg"
+          width="100%"
+          alt="Belajar Machine Learning untuk Pemula"
+        />
+      </a>
+      <br><br>
+      <strong>Belajar Machine Learning untuk Pemula</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+    <td align="center" width="33%">
+      <a href="https://drive.google.com/file/d/1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb/view?usp=drive_link">
+        <img
+          src="./certificates/sertifikat_course_belajar-AI_badge.svg"
+          width="100%"
+          alt="belajar AI"
+        />
+      </a>
+      <br><br>
+      <strong>belajar AI</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
+        <img
+          src="./certificates/sertifikat_course_Belajar Back-End Pemula dengan JavaScript-2026-2029_badge.svg"
+          width="100%"
+          alt="Belajar Back End Pemula dengan JavaScript"
+        />
+      </a>
+      <br><br>
+      <strong>Belajar Back End Pemula dengan JavaScript</strong>
       <br>
       Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl"
+          src="./certificates/sertifikat_course_AI Praktis untuk Produktivitas-2029_badge.svg"
           width="100%"
-          alt="Memulai Pemrograman dengan Python"
+          alt="AI Praktis untuk Produktivitas"
         />
       </a>
       <br><br>
-      <strong>Memulai Pemrograman dengan Python</strong>
+      <strong>AI Praktis untuk Produktivitas</strong>
       <br>
       Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l"
+          src="./certificates/sertifikat_course_5_badge.svg"
           width="100%"
-          alt="Memulai Dasar"
+          alt="5"
         />
       </a>
       <br><br>
-      <strong>Memulai Dasar</strong>
+      <strong>5</strong>
       <br>
-      Dicoding Indonesia
+      Other
     </td>
   </tr>
 
@@ -234,41 +232,41 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g"
+          src="./certificates/sertifikat-dasar2-cybersecurity-2026pdf_badge.svg"
           width="100%"
-          alt="Pengenalan ke Logika Pemrograman (Programming Logic 101)"
+          alt="dasar2 cybersecuritypdf"
         />
       </a>
       <br><br>
-      <strong>Pengenalan ke Logika Pemrograman (Programming Logic 101)</strong>
+      <strong>dasar2 cybersecuritypdf</strong>
       <br>
       Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy"
+          src="./certificates/sertifikat_course_Belajar-Dasar-Pemrograman-JavaScript_badge.svg"
           width="100%"
-          alt="Dicoding Course 4"
+          alt="Belajar Dasar Pemrograman JavaScript"
         />
       </a>
       <br><br>
-      <strong>Dicoding Course 4</strong>
+      <strong>Belajar Dasar Pemrograman JavaScript</strong>
       <br>
       Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng"
+          src="./certificates/sertifikat_course_4_badge.svg"
           width="100%"
-          alt="Dicoding Course 5"
+          alt="4"
         />
       </a>
       <br><br>
-      <strong>Dicoding Course 5</strong>
+      <strong>4</strong>
       <br>
-      Dicoding Indonesia
+      Other
     </td>
   </tr>
 
@@ -276,68 +274,33 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK"
+          src="./certificates/Ragah Dirotama Wijaya (3)_badge.svg"
           width="100%"
-          alt="Dicoding ILT English"
+          alt="Ragah Dirotama Wijaya"
         />
       </a>
       <br><br>
-      <strong>Dicoding ILT English</strong>
+      <strong>Ragah Dirotama Wijaya</strong>
       <br>
-      Dicoding Indonesia
+      Other
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA"
+          src="./certificates/Perform basic operations on numbers in C#_badge.svg"
           width="100%"
-          alt="Dicoding ILT English Certificate"
+          alt="Perform basic operations on numbers in C#"
         />
       </a>
       <br><br>
-      <strong>Dicoding ILT English Certificate</strong>
+      <strong>Perform basic operations on numbers in C#</strong>
       <br>
-      Dicoding Indonesia
+      Microsoft Learn
     </td>
-    <td align="center" width="33%">
-    </td>
-  </tr>
-</table>
-
-### 📘 Microsoft Learn
-
-<table>
-  <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_"
-          width="100%"
-          alt="Write your first C# code"
-        />
-      </a>
-      <br><br>
-      <strong>Write your first C# code</strong>
-      <br>
-      Microsoft Learn
-    </td>
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB/view?usp=drive_link">
-        <img
-          src="https://drive.google.com/uc?export=view&id=1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB"
-          width="100%"
-          alt="Store and retrieve data using literal and variable values in C#"
-        />
-      </a>
-      <br><br>
-      <strong>Store and retrieve data using literal and variable values in C#</strong>
-      <br>
-      Microsoft Learn
-    </td>
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre/view?usp=drive_link">
-        <img
-          src="https://drive.google.com/uc?export=view&id=1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre"
+          src="./certificates/Lakukan pemformatan string dasar di C#_badge.svg"
           width="100%"
           alt="Lakukan pemformatan string dasar di C#"
         />
@@ -351,107 +314,125 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp"
+          src="./certificates/Instal dan konfigurasikan Visual Studio Code._badge.svg"
           width="100%"
-          alt="Perform basic operations on numbers in C#"
+          alt="Instal dan konfigurasikan Visual Studio Code."
         />
       </a>
       <br><br>
-      <strong>Perform basic operations on numbers in C#</strong>
+      <strong>Instal dan konfigurasikan Visual Studio Code.</strong>
       <br>
       Microsoft Learn
     </td>
     <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N"
+          src="./certificates/idcamp-Introduction-to-Cybersecurity_badge.svg"
           width="100%"
-          alt="Guided project - Calculate and print student grades"
+          alt="idcamp Introduction to Cybersecurity"
         />
       </a>
       <br><br>
-      <strong>Guided project - Calculate and print student grades</strong>
+      <strong>idcamp Introduction to Cybersecurity</strong>
       <br>
-      Microsoft Learn
+      IDCamp / Cyber Academy
+    </td>
+    <td align="center" width="33%">
+      <a href="https://drive.google.com/file/d/1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp/view?usp=drive_link">
+        <img
+          src="./certificates/Dicoding-ILT-english (1)_badge.svg"
+          width="100%"
+          alt="Dicoding ILT english"
+        />
+      </a>
+      <br><br>
+      <strong>Dicoding ILT english</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://drive.google.com/file/d/1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N/view?usp=drive_link">
+        <img
+          src="./certificates/AI Mini Camp - Ragah Dirotama Wijaya.jpg"
+          width="100%"
+          alt="AI Mini Camp   Ragah Dirotama Wijaya"
+        />
+      </a>
+      <br><br>
+      <strong>AI Mini Camp   Ragah Dirotama Wijaya</strong>
+      <br>
+      Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j"
+          src="./certificates/[Coding Camp 2026] Certificate - CFS022D6Y253_badge.svg"
           width="100%"
-          alt="Guided project - Calculate final GPA"
+          alt="[Coding Camp 2026] Certificate   CFS022D6Y253"
         />
       </a>
       <br><br>
-      <strong>Guided project - Calculate final GPA</strong>
+      <strong>[Coding Camp 2026] Certificate   CFS022D6Y253</strong>
       <br>
-      Microsoft Learn
+      Coding Camp
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG"
+          src="./certificates/sertifikat_course_Pengenalan ke Logika Pemrograman (Programming Logic 101)_badge.svg"
           width="100%"
-          alt="Instal dan konfigurasikan Visual Studio Code"
+          alt="Pengenalan ke Logika Pemrograman (Programming Logic 101)"
         />
       </a>
       <br><br>
-      <strong>Instal dan konfigurasikan Visual Studio Code</strong>
+      <strong>Pengenalan ke Logika Pemrograman (Programming Logic 101)</strong>
       <br>
-      Microsoft Learn
-    </td>
-    <td align="center" width="33%">
-    </td>
-    <td align="center" width="33%">
+      Dicoding Indonesia
     </td>
   </tr>
-</table>
 
-#### 📝 Guided Project Certificates
-
-<table>
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO"
+          src="./certificates/sertifikat_course_Belajar-Dasar-Cloud-dan-GenAI-di-AWS_badge.svg"
           width="100%"
-          alt="Calculate and print student grades"
+          alt="Belajar Dasar Cloud dan GenAI di AWS"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades</strong>
+      <strong>Belajar Dasar Cloud dan GenAI di AWS</strong>
       <br>
-      Microsoft Learn
+      Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1IBhzZmPkvLUIoieqPE4N9c737-mIv-99/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1IBhzZmPkvLUIoieqPE4N9c737-mIv-99"
+          src="./certificates/Sertifikat Ragah Dirotama Wijaya financial-liteasi-menyala_badge.svg"
           width="100%"
-          alt="Calculate and print student grades (1)"
+          alt="Sertifikat Ragah Dirotama Wijaya financial liteasi menyala"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades (1)</strong>
+      <strong>Sertifikat Ragah Dirotama Wijaya financial liteasi menyala</strong>
       <br>
-      Microsoft Learn
+      Financial Literacy
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk"
+          src="./certificates/Guided project - Calculate final GPA_badge.svg"
           width="100%"
-          alt="Calculate and print student grades (2)"
+          alt="Guided project   Calculate final GPA"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades (2)</strong>
+      <strong>Guided project   Calculate final GPA</strong>
       <br>
       Microsoft Learn
     </td>
@@ -461,41 +442,41 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K"
+          src="./certificates/sertifikat_course_memulai-dasar_badge.svg"
           width="100%"
-          alt="Calculate and print student grades (3)"
+          alt="memulai dasar"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades (3)</strong>
+      <strong>memulai dasar</strong>
       <br>
-      Microsoft Learn
+      Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1y5xzJHR5f0XocNGFcxF19Sdessn31U0P/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1y5xzJHR5f0XocNGFcxF19Sdessn31U0P"
+          src="./certificates/sertifikat_course_Belajar-Dasar -Pemrograman-Web_2026-29_badge.svg"
           width="100%"
-          alt="Calculate and print student grades (4)"
+          alt="Belajar Dasar  Pemrograman Web"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades (4)</strong>
+      <strong>Belajar Dasar  Pemrograman Web</strong>
       <br>
-      Microsoft Learn
+      Dicoding Indonesia
     </td>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6"
+          src="./certificates/Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025 (1)_badge.svg"
           width="100%"
-          alt="Calculate and print student grades (5)"
+          alt="Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades (5)</strong>
+      <strong>Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025</strong>
       <br>
-      Microsoft Learn
+      Webinar
     </td>
   </tr>
 
@@ -503,13 +484,13 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1EOMszsohkMi3ronp_IPlloM7jch26qod/view?usp=drive_link">
         <img
-          src="https://drive.google.com/uc?export=view&id=1EOMszsohkMi3ronp_IPlloM7jch26qod"
+          src="./certificates/Guided project - Calculate and print student grades_badge.svg"
           width="100%"
-          alt="Calculate and print student grades (6)"
+          alt="Guided project   Calculate and print student grades"
         />
       </a>
       <br><br>
-      <strong>Calculate and print student grades (6)</strong>
+      <strong>Guided project   Calculate and print student grades</strong>
       <br>
       Microsoft Learn
     </td>
