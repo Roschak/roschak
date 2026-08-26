@@ -65,7 +65,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/AI Mini Camp - Ragah Dirotama Wijaya.jpg"
+        src="./certificates/AI%20Mini%20Camp%20-%20Ragah%20Dirotama%20Wijaya.jpg"
         width="100%"
         alt="AI Mini Camp"
       />
@@ -237,7 +237,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Dicoding-ILT-english .jpg"
+        src="./certificates/Dicoding-ILT-english%20.jpg"
         width="100%"
         alt="Dicoding ILT English Certificate"
       />
@@ -344,7 +344,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades.jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades.jpg"
         width="100%"
         alt="Guided Project - Student Grades"
       />
@@ -356,7 +356,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (1).jpeg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(1).jpeg"
         width="100%"
         alt="Guided Project - Student Grades (1)"
       />
@@ -368,7 +368,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (2).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(2).jpg"
         width="100%"
         alt="Guided Project - Student Grades (2)"
       />
@@ -382,7 +382,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (3).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(3).jpg"
         width="100%"
         alt="Guided Project - Student Grades (3)"
       />
@@ -394,7 +394,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (4).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(4).jpg"
         width="100%"
         alt="Guided Project - Student Grades (4)"
       />
@@ -406,7 +406,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (5).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(5).jpg"
         width="100%"
         alt="Guided Project - Student Grades (5)"
       />
@@ -420,7 +420,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (6).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(6).jpg"
         width="100%"
         alt="Guided Project - Student Grades (6)"
       />
@@ -432,7 +432,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (7).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(7).jpg"
         width="100%"
         alt="Guided Project - Student Grades (7)"
       />
@@ -444,7 +444,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (8).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(8).jpg"
         width="100%"
         alt="Guided Project - Student Grades (8)"
       />
@@ -458,7 +458,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (9).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(9).jpg"
         width="100%"
         alt="Guided Project - Student Grades (9)"
       />
@@ -470,7 +470,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (10).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(10).jpg"
         width="100%"
         alt="Guided Project - Student Grades (10)"
       />
@@ -482,7 +482,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (16).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(16).jpg"
         width="100%"
         alt="Guided Project - Student Grades (16)"
       />
@@ -496,7 +496,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/Guided project - Calculate and print student grades (19).jpg"
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20(19).jpg"
         width="100%"
         alt="Guided Project - Student Grades (19)"
       />
@@ -561,7 +561,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
     <td align="center" width="33%">
       <img
-        src="./certificates/[Coding Camp 2026] Certificate - CFS022D6Y253.jpg"
+        src="./certificates/%5BCoding%20Camp%202026%5D%20Certificate%20-%20CFS022D6Y253.jpg"
         width="100%"
         alt="Coding Camp 2026 Certificate"
       />
