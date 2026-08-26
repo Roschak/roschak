@@ -61,87 +61,155 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/ai-mini-camp.png"
+        width="100%"
+        alt="AI Mini Camp"
+      />
+      <br><br>
+      <strong>AI Mini Camp</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
 
-```
-<td align="center" width="33%">
-  <img
-    src="./certificates/information-security.png"
-    width="100%"
-    alt="Introduction to Information Security"
-  />
-  <br><br>
-  <strong>Introduction to Information Security</strong>
-  <br>
-  Cyber Academy Indonesia
-</td>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/ai-praktis-produktivitas.png"
+        width="100%"
+        alt="AI Praktis untuk Produktivitas"
+      />
+      <br><br>
+      <strong>AI Praktis untuk Produktivitas</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
 
-<td align="center" width="33%">
-  <img
-    src="./certificates/basic-cybersecurity.png"
-    width="100%"
-    alt="Basic Cybersecurity"
-  />
-  <br><br>
-  <strong>Basic Cybersecurity</strong>
-  <br>
-  Codepolitan
-</td>
-
-<td align="center" width="33%">
-  <img
-    src="./certificates/classical-cryptography.png"
-    width="100%"
-    alt="Classical Cryptography for Beginners"
-  />
-  <br><br>
-  <strong>Classical Cryptography for Beginners</strong>
-  <br>
-  Cyber Academy Indonesia
-</td>
-```
-
+    <td align="center" width="33%">
+      <img
+        src="./certificates/gdg-bogor.png"
+        width="100%"
+        alt="Google Developer Groups Bogor"
+      />
+      <br><br>
+      <strong>Let's Get Vibing — GDG Bogor</strong>
+      <br>
+      Google Developer Groups
+    </td>
   </tr>
 
   <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/csharp-write-first-code.png"
+        width="100%"
+        alt="Write your first C# code"
+      />
+      <br><br>
+      <strong>Write your first C# code</strong>
+      <br>
+      Microsoft Learn
+    </td>
 
-```
-<td align="center" width="33%">
-  <img
-    src="./certificates/data-visualization.png"
-    width="100%"
-    alt="Belajar Dasar Visualisasi Data"
-  />
-  <br><br>
-  <strong>Belajar Dasar Visualisasi Data</strong>
-  <br>
-  Dicoding Indonesia
-</td>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/csharp-store-retrieve.png"
+        width="100%"
+        alt="Store and retrieve data in C#"
+      />
+      <br><br>
+      <strong>Store and retrieve data using literal and variable values in C#</strong>
+      <br>
+      Microsoft Learn
+    </td>
 
-<td align="center" width="33%">
-  <img
-    src="./certificates/indonesia-game-week.png"
-    width="100%"
-    alt="Indonesia Game Week — Game Jam"
-  />
-  <br><br>
-  <strong>Indonesia Game Week — Game Jam</strong>
-  <br>
-  Gamecomm Indonesia
-</td>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/csharp-string-formatting.png"
+        width="100%"
+        alt="Lakukan pemformatan string dasar di C#"
+      />
+      <br><br>
+      <strong>Lakukan pemformatan string dasar di C#</strong>
+      <br>
+      Microsoft Learn
+    </td>
+  </tr>
 
-<td align="center" width="33%">
-  <img
-    src="./certificates/python-programming.png"
-    width="100%"
-    alt="Memulai Pemrograman dengan Python"
-  />
-  <br><br>
-  <strong>Memulai Pemrograman dengan Python</strong>
-  <br>
-  Dicoding Indonesia
-</td>
-```
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/csharp-basic-operations.png"
+        width="100%"
+        alt="Perform basic operations on numbers in C#"
+      />
+      <br><br>
+      <strong>Perform basic operations on numbers in C#</strong>
+      <br>
+      Microsoft Learn
+    </td>
 
+    <td align="center" width="33%">
+      <img
+        src="./certificates/csharp-guided-grades.png"
+        width="100%"
+        alt="Calculate and print student grades"
+      />
+      <br><br>
+      <strong>Guided project - Calculate and print student grades</strong>
+      <br>
+      Microsoft Learn
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/csharp-guided-gpa.png"
+        width="100%"
+        alt="Calculate final GPA"
+      />
+      <br><br>
+      <strong>Guided project - Calculate final GPA</strong>
+      <br>
+      Microsoft Learn
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/vs-code-config.png"
+        width="100%"
+        alt="Instal dan konfigurasikan Visual Studio Code"
+      />
+      <br><br>
+      <strong>Instal dan konfigurasikan Visual Studio Code</strong>
+      <br>
+      Microsoft Learn
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/information-security.png"
+        width="100%"
+        alt="Introduction to Information Security"
+      />
+      <br><br>
+      <strong>Introduction to Information Security</strong>
+      <br>
+      Cyber Academy Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/data-visualization.png"
+        width="100%"
+        alt="Belajar Dasar Visualisasi Data"
+      />
+      <br><br>
+      <strong>Belajar Dasar Visualisasi Data</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
   </tr>
 </table>
 
@@ -221,4 +289,3 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 <p align="center">
   <i>⚡ Building. Learning. Securing.</i>
 </p>
-  
