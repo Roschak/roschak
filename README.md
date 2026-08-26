@@ -56,14 +56,16 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 ## 🏆 Certifications
 
 <p align="center">
-  <i>Certifications, courses, and achievements</i>
+  <i>Certifications, courses, and achievements — all verified certificates</i>
 </p>
+
+### 🎓 Dicoding Indonesia
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/ai-mini-camp.png"
+        src="./certificates/AI Mini Camp - Ragah Dirotama Wijaya.jpg"
         width="100%"
         alt="AI Mini Camp"
       />
@@ -74,11 +76,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <img
-        src="./certificates/ai-praktis-produktivitas.png"
-        width="100%"
-        alt="AI Praktis untuk Produktivitas"
-      />
+      <a href="./certificates/sertifikat_course_AI Praktis untuk Produktivitas-2029.pdf">
+        <img src="https://img.shields.io/badge/AI+Praktis+untuk+Produktivitas-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="AI Praktis untuk Produktivitas" />
+      </a>
       <br><br>
       <strong>AI Praktis untuk Produktivitas</strong>
       <br>
@@ -86,25 +86,180 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <img
-        src="./certificates/gdg-bogor.png"
-        width="100%"
-        alt="Google Developer Groups Bogor"
-      />
+      <a href="./certificates/sertifikat_course_belajar-AI.pdf">
+        <img src="https://img.shields.io/badge/Belajar+AI-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar AI" />
+      </a>
       <br><br>
-      <strong>Let's Get Vibing — GDG Bogor</strong>
+      <strong>Belajar AI</strong>
       <br>
-      Google Developer Groups
+      Dicoding Indonesia
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar Back-End Pemula dengan JavaScript-2026-2029.pdf">
+        <img src="https://img.shields.io/badge/Back-End+Pemula+JavaScript-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Back-End Pemula dengan JavaScript" />
+      </a>
+      <br><br>
+      <strong>Belajar Back-End Pemula dengan JavaScript</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar-Dasar -Pemrograman-Web_2026-29.pdf">
+        <img src="https://img.shields.io/badge/Dasar+Pemrograman+Web-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Pemrograman Web" />
+      </a>
+      <br><br>
+      <strong>Belajar Dasar Pemrograman Web</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar-Dasar-Cloud-dan-GenAI-di-AWS.pdf">
+        <img src="https://img.shields.io/badge/Dasar+Cloud+dan+GenAI+AWS-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Cloud dan GenAI di AWS" />
+      </a>
+      <br><br>
+      <strong>Belajar Dasar Cloud dan GenAI di AWS</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar-Dasar-Pemrograman-JavaScript.pdf">
+        <img src="https://img.shields.io/badge/Dasar+Pemrograman+JavaScript-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Pemrograman JavaScript" />
+      </a>
+      <br><br>
+      <strong>Belajar Dasar Pemrograman JavaScript</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar-Machine-Learning-untuk-Pemula.pdf">
+        <img src="https://img.shields.io/badge/Machine+Learning+untuk+Pemula-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Machine Learning untuk Pemula" />
+      </a>
+      <br><br>
+      <strong>Belajar Machine Learning untuk Pemula</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar-Membuat-Aplikasi-Web-dengan-React-.pdf">
+        <img src="https://img.shields.io/badge/Membuat+Aplikasi+Web+React-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Membuat Aplikasi Web dengan React" />
+      </a>
+      <br><br>
+      <strong>Belajar Membuat Aplikasi Web dengan React</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Belajar-Membuat-Front-End-Web-untuk-Pemula_2026-2029.pdf">
+        <img src="https://img.shields.io/badge/Front-End+Web+untuk+Pemula-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Membuat Front-End Web untuk Pemula" />
+      </a>
+      <br><br>
+      <strong>Belajar Membuat Front-End Web untuk Pemula</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_memulai pemrigraman dengan python.pdf">
+        <img src="https://img.shields.io/badge/Memulai+Pemrograman+Python-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Memulai Pemrograman dengan Python" />
+      </a>
+      <br><br>
+      <strong>Memulai Pemrograman dengan Python</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_memulai-dasar.pdf">
+        <img src="https://img.shields.io/badge/Memulai+Dasar-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Memulai Dasar" />
+      </a>
+      <br><br>
+      <strong>Memulai Dasar</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_Pengenalan ke Logika Pemrograman (Programming Logic 101).pdf">
+        <img src="https://img.shields.io/badge/Pengenalan+Logika+Pemrograman-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Pengenalan ke Logika Pemrograman" />
+      </a>
+      <br><br>
+      <strong>Pengenalan ke Logika Pemrograman (Programming Logic 101)</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_4.pdf">
+        <img src="https://img.shields.io/badge/Dicoding+Course+4-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding Course 4" />
+      </a>
+      <br><br>
+      <strong>Dicoding Course 4</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat_course_5.pdf">
+        <img src="https://img.shields.io/badge/Dicoding+Course+5-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding Course 5" />
+      </a>
+      <br><br>
+      <strong>Dicoding Course 5</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/Dicoding-ILT-english (1).pdf">
+        <img src="https://img.shields.io/badge/Dicoding+ILT+English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding ILT English" />
+      </a>
+      <br><br>
+      <strong>Dicoding ILT English</strong>
+      <br>
+      Dicoding Indonesia
+    </td>
+
+    <td align="center" width="33%">
       <img
-        src="./certificates/csharp-write-first-code.png"
+        src="./certificates/Dicoding-ILT-english .jpg"
         width="100%"
-        alt="Write your first C# code"
+        alt="Dicoding ILT English Certificate"
       />
+      <br><br>
+      <strong>Dicoding ILT English</strong>
+      <br>
+      Dicoding Indonesia (Preview)
+    </td>
+
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
+### 📘 Microsoft Learn
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/Write your first C%23 code.pdf">
+        <img src="https://img.shields.io/badge/Write+your+first+C%23+code-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Write your first C# code" />
+      </a>
       <br><br>
       <strong>Write your first C# code</strong>
       <br>
@@ -112,11 +267,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <img
-        src="./certificates/csharp-store-retrieve.png"
-        width="100%"
-        alt="Store and retrieve data in C#"
-      />
+      <a href="./certificates/Store and retrieve data using literal and variable values in C%23.pdf">
+        <img src="https://img.shields.io/badge/Store+and+retrieve+data+in+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Store and retrieve data in C#" />
+      </a>
       <br><br>
       <strong>Store and retrieve data using literal and variable values in C#</strong>
       <br>
@@ -124,11 +277,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <img
-        src="./certificates/csharp-string-formatting.png"
-        width="100%"
-        alt="Lakukan pemformatan string dasar di C#"
-      />
+      <a href="./certificates/Lakukan pemformatan string dasar di C%23.pdf">
+        <img src="https://img.shields.io/badge/Pemformatan+String+dasar+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Lakukan pemformatan string dasar di C#" />
+      </a>
       <br><br>
       <strong>Lakukan pemformatan string dasar di C#</strong>
       <br>
@@ -138,11 +289,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <img
-        src="./certificates/csharp-basic-operations.png"
-        width="100%"
-        alt="Perform basic operations on numbers in C#"
-      />
+      <a href="./certificates/Perform basic operations on numbers in C%23.pdf">
+        <img src="https://img.shields.io/badge/Basic+operations+numbers+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Perform basic operations on numbers in C#" />
+      </a>
       <br><br>
       <strong>Perform basic operations on numbers in C#</strong>
       <br>
@@ -150,11 +299,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <img
-        src="./certificates/csharp-guided-grades.png"
-        width="100%"
-        alt="Calculate and print student grades"
-      />
+      <a href="./certificates/Guided project - Calculate and print student grades.pdf">
+        <img src="https://img.shields.io/badge/Guided+Project+Student+Grades-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Calculate and print student grades" />
+      </a>
       <br><br>
       <strong>Guided project - Calculate and print student grades</strong>
       <br>
@@ -162,11 +309,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
-      <img
-        src="./certificates/csharp-guided-gpa.png"
-        width="100%"
-        alt="Calculate final GPA"
-      />
+      <a href="./certificates/Guided project - Calculate final GPA.pdf">
+        <img src="https://img.shields.io/badge/Guided+Project+Final+GPA-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Calculate final GPA" />
+      </a>
       <br><br>
       <strong>Guided project - Calculate final GPA</strong>
       <br>
@@ -176,11 +321,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 
   <tr>
     <td align="center" width="33%">
-      <img
-        src="./certificates/vs-code-config.png"
-        width="100%"
-        alt="Instal dan konfigurasikan Visual Studio Code"
-      />
+      <a href="./certificates/Instal dan konfigurasikan Visual Studio Code..pdf">
+        <img src="https://img.shields.io/badge/Instal+Visual+Studio+Code-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Instal dan konfigurasikan Visual Studio Code" />
+      </a>
       <br><br>
       <strong>Instal dan konfigurasikan Visual Studio Code</strong>
       <br>
@@ -188,27 +331,286 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
+    </td>
+
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
+#### 📝 Guided Project Certificates
+
+<table>
+  <tr>
+    <td align="center" width="33%">
       <img
-        src="./certificates/information-security.png"
+        src="./certificates/Guided project - Calculate and print student grades.jpg"
         width="100%"
-        alt="Introduction to Information Security"
+        alt="Guided Project - Student Grades"
       />
       <br><br>
-      <strong>Introduction to Information Security</strong>
+      <strong>Calculate and print student grades</strong>
       <br>
-      Cyber Academy Indonesia
+      Microsoft Learn (Preview)
     </td>
 
     <td align="center" width="33%">
       <img
-        src="./certificates/data-visualization.png"
+        src="./certificates/Guided project - Calculate and print student grades (1).jpeg"
         width="100%"
-        alt="Belajar Dasar Visualisasi Data"
+        alt="Guided Project - Student Grades (1)"
       />
       <br><br>
-      <strong>Belajar Dasar Visualisasi Data</strong>
+      <strong>Calculate and print student grades (1)</strong>
       <br>
-      Dicoding Indonesia
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (2).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (2)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (2)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (3).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (3)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (3)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (4).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (4)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (4)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (5).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (5)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (5)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (6).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (6)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (6)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (7).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (7)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (7)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (8).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (8)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (8)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (9).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (9)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (9)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (10).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (10)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (10)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (16).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (16)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (16)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided project - Calculate and print student grades (19).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (19)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (19)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+    </td>
+
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
+### 🔐 Security & Cyber
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/idcamp-Introduction-to-Cybersecurity.pdf">
+        <img src="https://img.shields.io/badge/Introduction+to+Cybersecurity-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Introduction to Information Security" />
+      </a>
+      <br><br>
+      <strong>Introduction to Information Security</strong>
+      <br>
+      IDCamp / Cyber Academy Indonesia
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat-dasar2-cybersecurity-2026pdf.pdf">
+        <img src="https://img.shields.io/badge/Dasar-Dasar+Cybersecurity+2026-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dasar-Dasar Cybersecurity" />
+      </a>
+      <br><br>
+      <strong>Dasar-Dasar Cybersecurity 2026</strong>
+      <br>
+      Cybersecurity Course
+    </td>
+
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
+### 🏅 Events, Workshops & Other Certifications
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/sertifikat-igw-game-jam.jpeg"
+        width="100%"
+        alt="IGW Game Jam"
+      />
+      <br><br>
+      <strong>IGW Game Jam</strong>
+      <br>
+      Event Participation
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/[Coding Camp 2026] Certificate - CFS022D6Y253.jpg"
+        width="100%"
+        alt="Coding Camp 2026 Certificate"
+      />
+      <br><br>
+      <strong>Coding Camp 2026</strong>
+      <br>
+      Coding Camp
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025 (1).pdf">
+        <img src="https://img.shields.io/badge/Webinar+27+Agustus+2025-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Webinar 27 Agustus 2025" />
+      </a>
+      <br><br>
+      <strong>Sertifikat Webinar 27 Agustus 2025</strong>
+      <br>
+      Webinar
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="./certificates/Sertifikat Ragah Dirotama Wijaya financial-liteasi-menyala.pdf">
+        <img src="https://img.shields.io/badge/Financial+Literasi+Menyala-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Financial Literasi Menyala" />
+      </a>
+      <br><br>
+      <strong>Financial Literasi Menyala</strong>
+      <br>
+      Financial Literacy
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/sertifikat-keuangan.pdf">
+        <img src="https://img.shields.io/badge/Sertifikat+Keuangan-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Sertifikat Keuangan" />
+      </a>
+      <br><br>
+      <strong>Sertifikat Keuangan</strong>
+      <br>
+      Financial Certificate
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./certificates/Ragah Dirotama Wijaya (3).pdf">
+        <img src="https://img.shields.io/badge/Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Certificate" />
+      </a>
+      <br><br>
+      <strong>Certificate</strong>
+      <br>
+      Other
     </td>
   </tr>
 </table>
