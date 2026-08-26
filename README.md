@@ -64,7 +64,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m/view?usp=drive_link">
         <img
-          src="./certificates/Write your first C# code_badge.svg"
+          src="./certificates/Write%20your%20first%20C%23%20code_badge.svg"
           width="100%"
           alt="Write your first C# code"
         />
@@ -77,7 +77,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R/view?usp=drive_link">
         <img
-          src="./certificates/Store and retrieve data using literal and variable values in C#_badge.svg"
+          src="./certificates/Store%20and%20retrieve%20data%20using%20literal%20and%20variable%20values%20in%20C%23_badge.svg"
           width="100%"
           alt="Store and retrieve data using literal and variable values in C#"
         />
@@ -106,7 +106,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8/view?usp=drive_link">
         <img
-          src="./certificates/sertifikat_course_memulai pemrigraman dengan python_badge.svg"
+          src="./certificates/sertifikat_course_memulai%20pemrigraman%20dengan%20python_badge.svg"
           width="100%"
           alt="memulai pemrigraman dengan python"
         />
@@ -190,7 +190,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
         <img
-          src="./certificates/sertifikat_course_Belajar Back-End Pemula dengan JavaScript-2026-2029_badge.svg"
+          src="./certificates/sertifikat_course_Belajar%20Back-End%20Pemula%20dengan%20JavaScript-2026-2029_badge.svg"
           width="100%"
           alt="Belajar Back End Pemula dengan JavaScript"
         />
@@ -203,7 +203,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
         <img
-          src="./certificates/sertifikat_course_AI Praktis untuk Produktivitas-2029_badge.svg"
+          src="./certificates/sertifikat_course_AI%20Praktis%20untuk%20Produktivitas-2029_badge.svg"
           width="100%"
           alt="AI Praktis untuk Produktivitas"
         />
@@ -274,7 +274,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
         <img
-          src="./certificates/Ragah Dirotama Wijaya (3)_badge.svg"
+          src="./certificates/Ragah%20Dirotama%20Wijaya%20%283%29_badge.svg"
           width="100%"
           alt="Ragah Dirotama Wijaya"
         />
@@ -287,7 +287,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA/view?usp=drive_link">
         <img
-          src="./certificates/Perform basic operations on numbers in C#_badge.svg"
+          src="./certificates/Perform%20basic%20operations%20on%20numbers%20in%20C%23_badge.svg"
           width="100%"
           alt="Perform basic operations on numbers in C#"
         />
@@ -300,7 +300,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_/view?usp=drive_link">
         <img
-          src="./certificates/Lakukan pemformatan string dasar di C#_badge.svg"
+          src="./certificates/Lakukan%20pemformatan%20string%20dasar%20di%20C%23_badge.svg"
           width="100%"
           alt="Lakukan pemformatan string dasar di C#"
         />
@@ -316,7 +316,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB/view?usp=drive_link">
         <img
-          src="./certificates/Instal dan konfigurasikan Visual Studio Code._badge.svg"
+          src="./certificates/Instal%20dan%20konfigurasikan%20Visual%20Studio%20Code._badge.svg"
           width="100%"
           alt="Instal dan konfigurasikan Visual Studio Code."
         />
@@ -342,7 +342,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp/view?usp=drive_link">
         <img
-          src="./certificates/Dicoding-ILT-english (1)_badge.svg"
+          src="./certificates/Dicoding-ILT-english%20%281%29_badge.svg"
           width="100%"
           alt="Dicoding ILT english"
         />
@@ -358,7 +358,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N/view?usp=drive_link">
         <img
-          src="./certificates/AI Mini Camp - Ragah Dirotama Wijaya.jpg"
+          src="./certificates/AI%20Mini%20Camp%20-%20Ragah%20Dirotama%20Wijaya.jpg"
           width="100%"
           alt="AI Mini Camp   Ragah Dirotama Wijaya"
         />
@@ -371,7 +371,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j/view?usp=drive_link">
         <img
-          src="./certificates/[Coding Camp 2026] Certificate - CFS022D6Y253_badge.svg"
+          src="./certificates/%5BCoding%20Camp%202026%5D%20Certificate%20-%20CFS022D6Y253_badge.svg"
           width="100%"
           alt="[Coding Camp 2026] Certificate   CFS022D6Y253"
         />
@@ -384,7 +384,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG/view?usp=drive_link">
         <img
-          src="./certificates/sertifikat_course_Pengenalan ke Logika Pemrograman (Programming Logic 101)_badge.svg"
+          src="./certificates/sertifikat_course_Pengenalan%20ke%20Logika%20Pemrograman%20%28Programming%20Logic%20101%29_badge.svg"
           width="100%"
           alt="Pengenalan ke Logika Pemrograman (Programming Logic 101)"
         />
@@ -413,7 +413,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1IBhzZmPkvLUIoieqPE4N9c737-mIv-99/view?usp=drive_link">
         <img
-          src="./certificates/Sertifikat Ragah Dirotama Wijaya financial-liteasi-menyala_badge.svg"
+          src="./certificates/Sertifikat%20Ragah%20Dirotama%20Wijaya%20financial-liteasi-menyala_badge.svg"
           width="100%"
           alt="Sertifikat Ragah Dirotama Wijaya financial liteasi menyala"
         />
@@ -426,7 +426,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk/view?usp=drive_link">
         <img
-          src="./certificates/Guided project - Calculate final GPA_badge.svg"
+          src="./certificates/Guided%20project%20-%20Calculate%20final%20GPA_badge.svg"
           width="100%"
           alt="Guided project   Calculate final GPA"
         />
@@ -455,7 +455,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1y5xzJHR5f0XocNGFcxF19Sdessn31U0P/view?usp=drive_link">
         <img
-          src="./certificates/sertifikat_course_Belajar-Dasar -Pemrograman-Web_2026-29_badge.svg"
+          src="./certificates/sertifikat_course_Belajar-Dasar%20-Pemrograman-Web_2026-29_badge.svg"
           width="100%"
           alt="Belajar Dasar  Pemrograman Web"
         />
@@ -468,7 +468,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6/view?usp=drive_link">
         <img
-          src="./certificates/Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025 (1)_badge.svg"
+          src="./certificates/Ragah%20Dirotama%20Wijaya%20Sertifikat%20Webinar%2027%20Agustus%202025%20%281%29_badge.svg"
           width="100%"
           alt="Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025"
         />
@@ -484,7 +484,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1EOMszsohkMi3ronp_IPlloM7jch26qod/view?usp=drive_link">
         <img
-          src="./certificates/Guided project - Calculate and print student grades_badge.svg"
+          src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades_badge.svg"
           width="100%"
           alt="Guided project   Calculate and print student grades"
         />
