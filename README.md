@@ -507,6 +507,53 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
 
     <td align="center" width="33%">
+      <img
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(10).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (10)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (10)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(11).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (11)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (11)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(12).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (12)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (12)</strong>
+      <br>
+      Microsoft Learn (Preview)
+    </td>
+
+    <td align="center" width="33%">
+      <img
+        src="./certificates/Guided%20project%20-%20Calculate%20and%20print%20student%20grades%20%20(13).jpg"
+        width="100%"
+        alt="Guided Project - Student Grades (13)"
+      />
+      <br><br>
+      <strong>Calculate and print student grades (13)</strong>
+      <br>
+      Microsoft Learn (Preview)
     </td>
 
     <td align="center" width="33%">
@@ -549,18 +596,6 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <img
-        src="./certificates/sertifikat-igw-game-jam.jpeg"
-        width="100%"
-        alt="IGW Game Jam"
-      />
-      <br><br>
-      <strong>IGW Game Jam</strong>
-      <br>
-      Event Participation
-    </td>
-
-    <td align="center" width="33%">
-      <img
         src="./certificates/%5BCoding%20Camp%202026%5D%20Certificate%20-%20CFS022D6Y253.jpg"
         width="100%"
         alt="Coding Camp 2026 Certificate"
@@ -579,6 +614,9 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
       <strong>Sertifikat Webinar 27 Agustus 2025</strong>
       <br>
       Webinar
+    </td>
+
+    <td align="center" width="33%">
     </td>
   </tr>
 
