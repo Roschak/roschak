@@ -64,30 +64,38 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 <table>
   <tr>
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m"
-        width="100%"
-        alt="AI Mini Camp"
-      />
+      <a href="https://drive.google.com/file/d/1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m"
+          width="100%"
+          alt="AI Mini Camp"
+        />
+      </a>
       <br><br>
       <strong>AI Mini Camp</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/AI+Praktis+untuk+Produktivitas-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="AI Praktis untuk Produktivitas" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R"
+          width="100%"
+          alt="AI Praktis untuk Produktivitas"
+        />
       </a>
       <br><br>
       <strong>AI Praktis untuk Produktivitas</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Belajar+AI-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar AI" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU"
+          width="100%"
+          alt="Belajar AI"
+        />
       </a>
       <br><br>
       <strong>Belajar AI</strong>
@@ -99,27 +107,37 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Back-End+Pemula+JavaScript-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Back-End Pemula dengan JavaScript" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8"
+          width="100%"
+          alt="Belajar Back-End Pemula dengan JavaScript"
+        />
       </a>
       <br><br>
       <strong>Belajar Back-End Pemula dengan JavaScript</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dasar+Pemrograman+Web-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Pemrograman Web" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C"
+          width="100%"
+          alt="Belajar Dasar Pemrograman Web"
+        />
       </a>
       <br><br>
       <strong>Belajar Dasar Pemrograman Web</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/19xyBe-A5wys8alLj4gkzybYTydpp32xJ/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dasar+Cloud+dan+GenAI+AWS-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Cloud dan GenAI di AWS" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=19xyBe-A5wys8alLj4gkzybYTydpp32xJ"
+          width="100%"
+          alt="Belajar Dasar Cloud dan GenAI di AWS"
+        />
       </a>
       <br><br>
       <strong>Belajar Dasar Cloud dan GenAI di AWS</strong>
@@ -131,27 +149,37 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/19gefzN65_hcJgmi1Ri-wq-boGwrBYl92/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dasar+Pemrograman+JavaScript-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Dasar Pemrograman JavaScript" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=19gefzN65_hcJgmi1Ri-wq-boGwrBYl92"
+          width="100%"
+          alt="Belajar Dasar Pemrograman JavaScript"
+        />
       </a>
       <br><br>
       <strong>Belajar Dasar Pemrograman JavaScript</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Machine+Learning+untuk+Pemula-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Machine Learning untuk Pemula" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP"
+          width="100%"
+          alt="Belajar Machine Learning untuk Pemula"
+        />
       </a>
       <br><br>
       <strong>Belajar Machine Learning untuk Pemula</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Membuat+Aplikasi+Web+React-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Membuat Aplikasi Web dengan React" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb"
+          width="100%"
+          alt="Belajar Membuat Aplikasi Web dengan React"
+        />
       </a>
       <br><br>
       <strong>Belajar Membuat Aplikasi Web dengan React</strong>
@@ -163,27 +191,37 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Front-End+Web+untuk+Pemula-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Belajar Membuat Front-End Web untuk Pemula" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r"
+          width="100%"
+          alt="Belajar Membuat Front-End Web untuk Pemula"
+        />
       </a>
       <br><br>
       <strong>Belajar Membuat Front-End Web untuk Pemula</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Memulai+Pemrograman+Python-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Memulai Pemrograman dengan Python" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl"
+          width="100%"
+          alt="Memulai Pemrograman dengan Python"
+        />
       </a>
       <br><br>
       <strong>Memulai Pemrograman dengan Python</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Memulai+Dasar-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Memulai Dasar" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l"
+          width="100%"
+          alt="Memulai Dasar"
+        />
       </a>
       <br><br>
       <strong>Memulai Dasar</strong>
@@ -195,27 +233,37 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Pengenalan+Logika+Pemrograman-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Pengenalan ke Logika Pemrograman" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g"
+          width="100%"
+          alt="Pengenalan ke Logika Pemrograman (Programming Logic 101)"
+        />
       </a>
       <br><br>
       <strong>Pengenalan ke Logika Pemrograman (Programming Logic 101)</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dicoding+Course+4-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding Course 4" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy"
+          width="100%"
+          alt="Dicoding Course 4"
+        />
       </a>
       <br><br>
       <strong>Dicoding Course 4</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dicoding+Course+5-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding Course 5" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng"
+          width="100%"
+          alt="Dicoding Course 5"
+        />
       </a>
       <br><br>
       <strong>Dicoding Course 5</strong>
@@ -227,26 +275,30 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dicoding+ILT+English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dicoding ILT English" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK"
+          width="100%"
+          alt="Dicoding ILT English"
+        />
       </a>
       <br><br>
       <strong>Dicoding ILT English</strong>
       <br>
       Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA"
-        width="100%"
-        alt="Dicoding ILT English Certificate"
-      />
+      <a href="https://drive.google.com/file/d/1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA"
+          width="100%"
+          alt="Dicoding ILT English Certificate"
+        />
+      </a>
       <br><br>
-      <strong>Dicoding ILT English</strong>
+      <strong>Dicoding ILT English Certificate</strong>
       <br>
-      Dicoding Indonesia (Preview)
+      Dicoding Indonesia
     </td>
-
     <td align="center" width="33%">
     </td>
   </tr>
@@ -258,27 +310,37 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Write+your+first+C%23+code-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Write your first C# code" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_"
+          width="100%"
+          alt="Write your first C# code"
+        />
       </a>
       <br><br>
       <strong>Write your first C# code</strong>
       <br>
       Microsoft Learn
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Store+and+retrieve+data+in+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Store and retrieve data in C#" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB"
+          width="100%"
+          alt="Store and retrieve data using literal and variable values in C#"
+        />
       </a>
       <br><br>
       <strong>Store and retrieve data using literal and variable values in C#</strong>
       <br>
       Microsoft Learn
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Pemformatan+String+dasar+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Lakukan pemformatan string dasar di C#" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre"
+          width="100%"
+          alt="Lakukan pemformatan string dasar di C#"
+        />
       </a>
       <br><br>
       <strong>Lakukan pemformatan string dasar di C#</strong>
@@ -290,27 +352,37 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Basic+operations+numbers+C%23-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Perform basic operations on numbers in C#" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp"
+          width="100%"
+          alt="Perform basic operations on numbers in C#"
+        />
       </a>
       <br><br>
       <strong>Perform basic operations on numbers in C#</strong>
       <br>
       Microsoft Learn
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Guided+Project+Student+Grades-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Calculate and print student grades" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N"
+          width="100%"
+          alt="Guided project - Calculate and print student grades"
+        />
       </a>
       <br><br>
       <strong>Guided project - Calculate and print student grades</strong>
       <br>
       Microsoft Learn
     </td>
-
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Guided+Project+Final+GPA-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Calculate final GPA" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j"
+          width="100%"
+          alt="Guided project - Calculate final GPA"
+        />
       </a>
       <br><br>
       <strong>Guided project - Calculate final GPA</strong>
@@ -322,17 +394,19 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
   <tr>
     <td align="center" width="33%">
       <a href="https://drive.google.com/file/d/1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Instal+Visual+Studio+Code-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Instal dan konfigurasikan Visual Studio Code" />
+        <img
+          src="https://drive.google.com/uc?export=view&id=1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG"
+          width="100%"
+          alt="Instal dan konfigurasikan Visual Studio Code"
+        />
       </a>
       <br><br>
       <strong>Instal dan konfigurasikan Visual Studio Code</strong>
       <br>
       Microsoft Learn
     </td>
-
     <td align="center" width="33%">
     </td>
-
     <td align="center" width="33%">
     </td>
   </tr>
@@ -343,300 +417,105 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
 <table>
   <tr>
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO"
-        width="100%"
-        alt="Guided Project - Student Grades"
-      />
+      <a href="https://drive.google.com/file/d/1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO"
+          width="100%"
+          alt="Calculate and print student grades"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
-
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1IBhzZmPkvLUIoieqPE4N9c737-mIv-99"
-        width="100%"
-        alt="Guided Project - Student Grades (1)"
-      />
+      <a href="https://drive.google.com/file/d/1IBhzZmPkvLUIoieqPE4N9c737-mIv-99/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1IBhzZmPkvLUIoieqPE4N9c737-mIv-99"
+          width="100%"
+          alt="Calculate and print student grades (1)"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades (1)</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
-
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk"
-        width="100%"
-        alt="Guided Project - Student Grades (2)"
-      />
+      <a href="https://drive.google.com/file/d/1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk"
+          width="100%"
+          alt="Calculate and print student grades (2)"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades (2)</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K"
-        width="100%"
-        alt="Guided Project - Student Grades (3)"
-      />
+      <a href="https://drive.google.com/file/d/1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K"
+          width="100%"
+          alt="Calculate and print student grades (3)"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades (3)</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
-
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1y5xzJHR5f0XocNGFcxF19Sdessn31U0P"
-        width="100%"
-        alt="Guided Project - Student Grades (4)"
-      />
+      <a href="https://drive.google.com/file/d/1y5xzJHR5f0XocNGFcxF19Sdessn31U0P/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1y5xzJHR5f0XocNGFcxF19Sdessn31U0P"
+          width="100%"
+          alt="Calculate and print student grades (4)"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades (4)</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
-
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6"
-        width="100%"
-        alt="Guided Project - Student Grades (5)"
-      />
+      <a href="https://drive.google.com/file/d/1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6"
+          width="100%"
+          alt="Calculate and print student grades (5)"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades (5)</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1EOMszsohkMi3ronp_IPlloM7jch26qod"
-        width="100%"
-        alt="Guided Project - Student Grades (6)"
-      />
+      <a href="https://drive.google.com/file/d/1EOMszsohkMi3ronp_IPlloM7jch26qod/view?usp=drive_link">
+        <img
+          src="https://drive.google.com/uc?export=view&id=1EOMszsohkMi3ronp_IPlloM7jch26qod"
+          width="100%"
+          alt="Calculate and print student grades (6)"
+        />
+      </a>
       <br><br>
       <strong>Calculate and print student grades (6)</strong>
       <br>
-      Microsoft Learn (Preview)
+      Microsoft Learn
     </td>
-
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m"
-        width="100%"
-        alt="Guided Project - Student Grades (7)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (7)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R"
-        width="100%"
-        alt="Guided Project - Student Grades (8)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (8)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU"
-        width="100%"
-        alt="Guided Project - Student Grades (9)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (9)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8"
-        width="100%"
-        alt="Guided Project - Student Grades (10)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (10)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C"
-        width="100%"
-        alt="Guided Project - Student Grades (16)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (16)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=19xyBe-A5wys8alLj4gkzybYTydpp32xJ"
-        width="100%"
-        alt="Guided Project - Student Grades (19)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (19)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=19gefzN65_hcJgmi1Ri-wq-boGwrBYl92"
-        width="100%"
-        alt="Guided Project - Student Grades (11)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (11)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP"
-        width="100%"
-        alt="Guided Project - Student Grades (12)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (12)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb"
-        width="100%"
-        alt="Guided Project - Student Grades (13)"
-      />
-      <br><br>
-      <strong>Calculate and print student grades (13)</strong>
-      <br>
-      Microsoft Learn (Preview)
-    </td>
-
     <td align="center" width="33%">
     </td>
-  </tr>
-</table>
-
-### 🔐 Security & Cyber
-
-<table>
-  <tr>
     <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Introduction+to+Cybersecurity-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Introduction to Information Security" />
-      </a>
-      <br><br>
-      <strong>Introduction to Information Security</strong>
-      <br>
-      IDCamp / Cyber Academy Indonesia
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dasar-Dasar+Cybersecurity+2026-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Dasar-Dasar Cybersecurity" />
-      </a>
-      <br><br>
-      <strong>Dasar-Dasar Cybersecurity 2026</strong>
-      <br>
-      Cybersecurity Course
-    </td>
-
-    <td align="center" width="33%">
-    </td>
-  </tr>
-</table>
-
-### 🏅 Events, Workshops & Other Certifications
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img
-        src="https://drive.google.com/uc?export=view&id=1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l"
-        width="100%"
-        alt="Coding Camp 2026 Certificate"
-      />
-      <br><br>
-      <strong>Coding Camp 2026</strong>
-      <br>
-      Coding Camp
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Webinar+27+Agustus+2025-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Webinar 27 Agustus 2025" />
-      </a>
-      <br><br>
-      <strong>Sertifikat Webinar 27 Agustus 2025</strong>
-      <br>
-      Webinar
-    </td>
-
-    <td align="center" width="33%">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Financial+Literasi+Menyala-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Financial Literasi Menyala" />
-      </a>
-      <br><br>
-      <strong>Financial Literasi Menyala</strong>
-      <br>
-      Financial Literacy
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Sertifikat+Keuangan-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Sertifikat Keuangan" />
-      </a>
-      <br><br>
-      <strong>Sertifikat Keuangan</strong>
-      <br>
-      Financial Certificate
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Certificate" />
-      </a>
-      <br><br>
-      <strong>Certificate</strong>
-      <br>
-      Other
     </td>
   </tr>
 </table>
