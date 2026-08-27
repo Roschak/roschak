@@ -269,7 +269,7 @@ I am a Fullstack Web Developer focused on building functional, modern, and effic
     </td>
     <td align="center" width="20%">
       <a href="https://drive.google.com/file/d/1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j/view?usp=drive_link">
-        <img src="./certificates/%5BCoding%20Camp%202026%5D%20Certificate%20-%20CFS022D6Y253.jpg" width="100%" alt="[Coding Camp 2026] Certificate   CFS022D6Y253" />
+        <img src="./certificates/coding_camp_2026.jpg" width="100%" alt="[Coding Camp 2026] Certificate   CFS022D6Y253" />
       </a>
       <br><br>
       <strong>[Coding Camp 2026] Certificate   CFS022D6Y253</strong>
