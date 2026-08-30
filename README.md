@@ -60,7 +60,7 @@ height="170"
 
 ---
 
-## 🐍 Contribution Activity
+## 👰🏻‍♀️ waifu/MyGw
 
 <p align="center">
 
@@ -69,7 +69,7 @@ src="./urabe.gif"
 width="700"
 alt="Contribution Activity"
 />
-
+Urabe-Mikoto
 </p>
 
 ---
