@@ -1,0 +1,711 @@
+# 👋 Hi, I'm Ragah Dirotama Wijaya
+
+### 💻 Fullstack Web Developer
+
+I am a Fullstack Web Developer focused on building functional, modern, and efficient web applications. I have a strong interest in web technologies, application security, system architecture, and AI-powered automation.
+
+---
+
+## 🛡️ Areas of Interest & Learning
+
+* 💻 Fullstack Web Development
+
+* 🔐 Network & Application Security
+
+* 🌐 Web Auditing
+
+* 🧠 Artificial Intelligence & Automation
+
+* 🏗️ System Architecture
+
+* 🗄️ Database & Backend Engineering
+
+* ⚡ Modern Web Technologies
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs,java" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,dotnet,tailwind" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,git,github,docker,vercel" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+src="https://github-stats-extended.vercel.app/api?username=Roschak&show_icons=true&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Roschak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="170"
+/>
+
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+
+<img
+src="./urabe.gif"
+width="700"
+alt="Contribution Activity"
+/>
+
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+
+<i>Certifications, courses, and achievements — all verified certificates</i>
+
+</p>
+
+<table>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1j8kJOq9icv2eWlBJjAW6JC9emrpUdu4m/view?usp=drive_link">
+
+<img src="./certificates/Write_your_first_C_code.jpg" width="100%" alt="Write your first C# code" />
+
+</a>
+
+<br><br>
+
+<strong>Write your first C# code</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1Dkwbx-rRcLFKcxnLzNSLetKEeNLUBk6R/view?usp=drive_link">
+
+<img src="./certificates/Store_and_retrieve_data_using_literal_and_variable_values_in_C.jpg" width="100%" alt="Store and retrieve data using literal and variable values in C#" />
+
+</a>
+
+<br><br>
+
+<strong>Store and retrieve data using literal and variable values in C#</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1bDHrJUwxQe-FIK6KAEyljc33tdES5-JU/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_keuangan.jpg" width="100%" alt="keuangan" />
+
+</a>
+
+<br><br>
+
+<strong>keuangan</strong>
+<br>
+Financial Literacy
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1fC49E9I1GLAYhkzWbZICvesW-DLvBp_8/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_memulai_pemrigraman_dengan_python.jpg" width="100%" alt="memulai pemrigraman dengan python" />
+
+</a>
+
+<br><br>
+
+<strong>memulai pemrigraman dengan python</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1c8HtN0Qa60Ikru751RZAgfAHZCfhFd7C/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Membuat_Front_End_Web_untuk_Pemula_2026_2029.jpg" width="100%" alt="Belajar Membuat Front End Web untuk Pemula 2026" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Membuat Front End Web untuk Pemula 2026</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/19xyBe-A5wys8alLj4gkzybYTydpp32xJ/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Membuat_Aplikasi_Web_dengan_React.jpg" width="100%" alt="Belajar Membuat Aplikasi Web dengan React" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Membuat Aplikasi Web dengan React</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/19gefzN65_hcJgmi1Ri-wq-boGwrBYl92/view?usp=drive_link">
+
+<img src="./certificates/sertifikat-igw-game-jam.jpeg" width="100%" alt="igw game jam" />
+
+</a>
+
+<br><br>
+
+<strong>igw game jam</strong>
+<br>
+IGW Game Jam
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1LxxrO1_wqXXe84eGp1Q3lRYSGomzs2LP/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Machine_Learning_untuk_Pemula.jpg" width="100%" alt="Belajar Machine Learning untuk Pemula" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Machine Learning untuk Pemula</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1em0VMwacxzHTpjP1JGL1Pk_TfHMUn5yb/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_belajar_AI.jpg" width="100%" alt="belajar AI" />
+
+</a>
+
+<br><br>
+
+<strong>belajar AI</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1XaqO5Zz4HPlZomn5X-EfDnuWbPfKxU3r/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Back_End_Pemula_dengan_JavaScript_2026_2029.jpg" width="100%" alt="Belajar Back End Pemula dengan JavaScript" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Back End Pemula dengan JavaScript</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1PzRtZNTkPbulIAa4fYunuTt2fQub05Yl/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_AI_Praktis_untuk_Produktivitas_2029.jpg" width="100%" alt="AI Praktis untuk Produktivitas" />
+
+</a>
+
+<br><br>
+
+<strong>AI Praktis untuk Produktivitas</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1UVfsUdXGJ8ZTNE5BT_qJdse9GOkXit5l/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_5.jpg" width="100%" alt="5" />
+
+</a>
+
+<br><br>
+
+<strong>5</strong>
+<br>
+Other
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1qob-RSyjUphpmmAxuScOeFLjLPLTKV6g/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_dasar2_cybersecurity_2026pdf.jpg" width="100%" alt="dasar2 cybersecuritypdf" />
+
+</a>
+
+<br><br>
+
+<strong>dasar2 cybersecuritypdf</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1dcKAm9SoLfm30QjrbHwq9_tGLeZrEnYy/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Dasar_Pemrograman_JavaScript.jpg" width="100%" alt="Belajar Dasar Pemrograman JavaScript" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Dasar Pemrograman JavaScript</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/11TugLJQ3Kxfcntnl2F4oJP8fXPHlHfng/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_4.jpg" width="100%" alt="4" />
+
+</a>
+
+<br><br>
+
+<strong>4</strong>
+<br>
+Other
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1G-ceC6g0at-axl4B6h4ElipE5oSeR7xK/view?usp=drive_link">
+
+<img src="./certificates/Ragah_Dirotama_Wijaya_3.jpg" width="100%" alt="Ragah Dirotama Wijaya" />
+
+</a>
+
+<br><br>
+
+<strong>Ragah Dirotama Wijaya</strong>
+<br>
+Other
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1LQdDhAAk0L5JIMOe4F3QnwY9wemrlFuA/view?usp=drive_link">
+
+<img src="./certificates/Perform_basic_operations_on_numbers_in_C.jpg" width="100%" alt="Perform basic operations on numbers in C#" />
+
+</a>
+
+<br><br>
+
+<strong>Perform basic operations on numbers in C#</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1csLCS7MxTHiHN0X0VM9gn4wF3FcXccr_/view?usp=drive_link">
+
+<img src="./certificates/Lakukan_pemformatan_string_dasar_di_C.jpg" width="100%" alt="Lakukan pemformatan string dasar di C#" />
+
+</a>
+
+<br><br>
+
+<strong>Lakukan pemformatan string dasar di C#</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1A4VjqPiuJ0iau8TVbI2nrcgwX0pzAroB/view?usp=drive_link">
+
+<img src="./certificates/Instal_dan_konfigurasikan_Visual_Studio_Code.jpg" width="100%" alt="Instal dan konfigurasikan Visual Studio Code." />
+
+</a>
+
+<br><br>
+
+<strong>Instal dan konfigurasikan Visual Studio Code.</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1ZRqqsQpTorsws2Wpzgu2tmQpG0SjfTre/view?usp=drive_link">
+
+<img src="./certificates/idcamp_Introduction_to_Cybersecurity.jpg" width="100%" alt="idcamp Introduction to Cybersecurity" />
+
+</a>
+
+<br><br>
+
+<strong>idcamp Introduction to Cybersecurity</strong>
+<br>
+IDCamp / Cyber Academy
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1jDG9O9EhJAjd3cEebrxf6sZeGwiflmkp/view?usp=drive_link">
+
+<img src="./certificates/Dicoding_ILT_english_1.jpg" width="100%" alt="Dicoding ILT english" />
+
+</a>
+
+<br><br>
+
+<strong>Dicoding ILT english</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1zTJNXVcjpCKSJAIex1ihAOqKaZstDh4N/view?usp=drive_link">
+
+<img src="./certificates/AI_Mini_Camp_Ragah_Dirotama_Wijaya.jpg" width="100%" alt="AI Mini Camp Ragah Dirotama Wijaya" />
+
+</a>
+
+<br><br>
+
+<strong>AI Mini Camp Ragah Dirotama Wijaya</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1Ed4qc1123TiOF6yHzk8ZiDs2RxsYJa3j/view?usp=drive_link">
+
+<img src="./certificates/coding_camp_2026.jpg" width="100%" alt="[Coding Camp 2026] Certificate CFS022D6Y253" />
+
+</a>
+
+<br><br>
+
+<strong>[Coding Camp 2026] Certificate CFS022D6Y253</strong>
+<br>
+Coding Camp
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1ck3CeW-eLEG_WYQXebLkJ8e13dyioiuG/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Pengenalan_ke_Logika_Pemrograman_Programming_Logic_101.jpg" width="100%" alt="Pengenalan ke Logika Pemrograman (Programming Logic 101)" />
+
+</a>
+
+<br><br>
+
+<strong>Pengenalan ke Logika Pemrograman (Programming Logic 101)</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1h6Dabf9nx9O2CYwHkYdyLiPcYOvOr2SO/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Dasar_Cloud_dan_GenAI_di_AWS.jpg" width="100%" alt="Belajar Dasar Cloud dan GenAI di AWS" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Dasar Cloud dan GenAI di AWS</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1IBhzZmPkvLUIoieqPE4N9c737-mIv-99/view?usp=drive_link">
+
+<img src="./certificates/Sertifikat_Ragah_Dirotama_Wijaya_financial_liteasi_menyala.jpg" width="100%" alt="Sertifikat Ragah Dirotama Wijaya financial liteasi menyala" />
+
+</a>
+
+<br><br>
+
+<strong>Sertifikat Ragah Dirotama Wijaya financial liteasi menyala</strong>
+<br>
+Financial Literacy
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1Kmn2bnQvnW1oxhp2TPF94xYfjd0BXthk/view?usp=drive_link">
+
+<img src="./certificates/Guided_project_Calculate_final_GPA.jpg" width="100%" alt="Guided project Calculate final GPA" />
+
+</a>
+
+<br><br>
+
+<strong>Guided project Calculate final GPA</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1A_9NylLRDLjahLrPbXE3xpbQo-Ju7_-K/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_memulai_dasar.jpg" width="100%" alt="memulai dasar" />
+
+</a>
+
+<br><br>
+
+<strong>memulai dasar</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1y5xzJHR5f0XocNGFcxF19Sdessn31U0P/view?usp=drive_link">
+
+<img src="./certificates/sertifikat_course_Belajar_Dasar_Pemrograman_Web_2026_29.jpg" width="100%" alt="Belajar Dasar Pemrograman Web" />
+
+</a>
+
+<br><br>
+
+<strong>Belajar Dasar Pemrograman Web</strong>
+<br>
+Dicoding Indonesia
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1rnh5N56KGD7942wwxZkvkHEhPGXs1Gv6/view?usp=drive_link">
+
+<img src="./certificates/Ragah_Dirotama_Wijaya_Sertifikat_Webinar_27_Agustus_2025_1.jpg" width="100%" alt="Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025" />
+
+</a>
+
+<br><br>
+
+<strong>Ragah Dirotama Wijaya Sertifikat Webinar 27 Agustus 2025</strong>
+<br>
+Webinar
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://drive.google.com/file/d/1EOMszsohkMi3ronp_IPlloM7jch26qod/view?usp=drive_link">
+
+<img src="./certificates/Guided_project_Calculate_and_print_student_grades.jpg" width="100%" alt="Guided project Calculate and print student grades" />
+
+</a>
+
+<br><br>
+
+<strong>Guided project Calculate and print student grades</strong>
+<br>
+Microsoft Learn
+
+</td>
+
+<td align="center" width="20%"></td>
+
+<td align="center" width="20%"></td>
+
+<td align="center" width="20%"></td>
+
+<td align="center" width="20%"></td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<i>📜 Continuously learning, improving, and collecting new achievements.</i>
+
+</p>
+
+---
+
+## 🔥 Current Focus
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&width=800&height=80&lines=Building+modern+web+applications;Exploring+application+security;Learning+system+architecture;Experimenting+with+AI+%26+automation;Turning+ideas+into+real+software"
+alt="Current Focus"
+/>
+
+</p>
+
+---
+
+## 📊 Detailed GitHub Profile
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roschak&theme=tokyonight"
+width="95%"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roschak&theme=tokyonight"
+height="180"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roschak&theme=tokyonight"
+height="180"
+/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ragah-dirotama-wijaya-38303b30b">
+
+<img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"
+/>
+
+</a>
+
+<a href="https://instagram.com/Roschak">
+
+<img
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+alt="Instagram"
+/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn"
+width="100%"
+alt="Footer"
+/>
+
+</p>
+
+<p align="center">
+
+<i>⚡ Building. Learning. Securing.</i>
+
+</p>
